@@ -1,0 +1,2 @@
+this is the data source for DASH dashboard.
+This file should be created by pyhive python hive server connection and map reduce operations in IPython file.
