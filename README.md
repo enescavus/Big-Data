@@ -44,4 +44,6 @@ Hadoop - Kafka - Spark - Hive - Python - JSON - SQL - NoSQL
 
 ---
 
+### Sunumun Devamı -> [burada](https://github.com/enescavus/Big-Data/blob/main/TezSunum-RealTimeBigDataOperations.pdf)
+
 ___ENES ÇAVUŞ___
